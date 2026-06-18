@@ -81,30 +81,8 @@ python air_mouse.py
 | -------------------------- | ---------------- |
 | Move Index Finger          | Move Cursor      |
 | Touch Thumb + Index Finger | Left Click       |
-| Press Q                    | Exit Application |
+| Press Q                    | Exit Application 
 
-## Learning Outcomes
-
-This project demonstrates:
-
-* Computer Vision
-* Hand Landmark Detection
-* Coordinate Transformation
-* Gesture Recognition
-* Real-Time Video Processing
-* Human Computer Interaction (HCI)
-* System Automation
-
-## Future Enhancements
-
-* Right Click Gesture
-* Double Click Gesture
-* Scroll Gesture
-* Drag and Drop Support
-* Gesture-Based Shortcuts
-* Multi-Hand Tracking
-
-## Author
 
 Sanjana Thanabalan
 
